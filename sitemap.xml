@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://simplant.com/index.html</loc>
+    <lastmod>2024-02-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://simplant.com/images/plantas.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://simplant.com/images/white-icon01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://simplant.com/images/white-icon03.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://simplant.com/images/white-icon02.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://simplant.com/images/heart.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
